@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.mbientlab:metawear-3.0.32">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/metawear-3.0.32.aar/b60c7b7f0cf92ba1dc1835f9c7fc3dc0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/metawear-3.0.32.aar/b60c7b7f0cf92ba1dc1835f9c7fc3dc0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mbientlab/metawear/3.0.32/b895ec23b73ac95e15cdef9e7a15b6cf05419502/metawear-3.0.32-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

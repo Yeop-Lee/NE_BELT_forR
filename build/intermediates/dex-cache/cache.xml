@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\desugar\release\0.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eb2f06c66b709654d13e0a4d4c2747b38b9bf32e">
+        <dex dex="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\desugar\release\2.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3ed413f5016ab9bac2e9a8d20af2659a1022e645">
+        <dex dex="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\desugar\release\10.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="178e1b36f409c09a3ba8e0310b46c920505b9f18">
+        <dex dex="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\desugar\release\12.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="434a635ac252b774f75834c29d8a788945b8586e">
+        <dex dex="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\desugar\release\20.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="179b0de223c080ed997ed44a74bdf1d434f80792">
+        <dex dex="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\desugar\release\6.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b71fec6a8a1ea587773de2a7b10b72c638bbd3ba">
+        <dex dex="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\desugar\release\13.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1dd76b44173f979df70d9001aca18e99f25f21ea">
+        <dex dex="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\desugar\release\15.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="204f0ae3e3fe99a42d6cdf37c2e89508e8e58ea2">
+        <dex dex="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\desugar\release\4.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2141987c6cbd44a8c26d65ed5130c22265fd82ca">
+        <dex dex="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\desugar\release\5.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e70bb91d0f2a6a210603265f464de009433b2818">
+        <dex dex="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\desugar\release\8.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="094b8bc25b67cae0462dd4dc4cba3cf30589643e">
+        <dex dex="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\desugar\release\22.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="aa97bc5004ce6baa57dd0a938197304d943baedf">
+        <dex dex="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\desugar\release\21.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="14bbb83e32dd9cbb5eaa1abffcc80b1a43fb6562">
+        <dex dex="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\desugar\release\16.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e57770fdb9da491efc8e19b6c2697141cef82af2">
+        <dex dex="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\desugar\release\9.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="317c261f8c4bbb4dbe8865cb1904fc6e5e36d707">
+        <dex dex="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\processing-tools\runtime-deps\release\desugar_try_with_resources.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="786b13e9d4668484b418e1b356d7da6cb89fbd2f">
+        <dex dex="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forR\achartengine-1.1.0\achartengine-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250">
+        <dex dex="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forR\Application\build\intermediates\pre-dexed\debug\achartengine-1.1.0_dee98e77864b9d3603d799c37f54ac46e4d48738.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\desugar\release\23.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c9cd4562e8ee4ec8de30ff0d44c759791d81258d">
+        <dex dex="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\desugar\release\7.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b1b9ed986648aa26b7f3a9ecfcaca456052af64d">
+        <dex dex="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\desugar\release\24.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="09532ff16479b0b7813a7c24a350c5d9eed16f8d">
+        <dex dex="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\desugar\release\18.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="176c19c081e4c68c56482593b7b6457dcf879db1">
+        <dex dex="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\desugar\release\19.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fe9dc397590b14757d024e979103a89643a8ad36">
+        <dex dex="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\desugar\release\11.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0798f81df3461288315061759d4fe7d1005b1001">
+        <dex dex="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\desugar\release\3.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9dda56271625a0895972fcbcaff9ef73e3d175c6">
+        <dex dex="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\desugar\release\14.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1b04aeef2ff43ef47a64f53a62b6c683b4ce34b5">
+        <dex dex="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\desugar\release\17.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a7e03605623146cbe244a7a1cb29dbfca96ec767">
+        <dex dex="C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+
+</items>

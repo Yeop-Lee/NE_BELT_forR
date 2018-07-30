@@ -1,0 +1,184 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:20:1-60:12
+INJECTED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:20:1-60:12
+INJECTED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:20:1-60:12
+MERGED from [com.android.support:support-v13:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-v13-25.0.1.aar\7fbb4fff8c1a0cfa9ab7b8cca5a1ca46\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.1.aar\1d44a2983c23b58aab8bf3c8637c266d\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.1.aar\500dbda3c57d72958a55c1784ea80dd0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.0.1.aar\26e3f7217ddb1dd74d45e3ad00770886\AndroidManifest.xml:17:1-24:12
+MERGED from [com.mbientlab:metawear:3.0.32] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\metawear-3.0.32.aar\0b0b75a3ac054dbf20218b3766330f54\AndroidManifest.xml:25:1-41:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7937b12dafbf0af48584fc924b9858b6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.1.aar\a8f189ba3e27a333f60a6a3ebd0c09fe\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.1.aar\38cedb87874f60ddb57daa46318551e5\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.1.aar\be13150634cbd3cea2d0a261fd6051fa\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.1.aar\fccf6d0f63c05a255fb1c1aae7cd3092\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.1.aar\124149202a2d23e36770b31d3aa60d96\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.1.aar\78e9433500b534694e13004292db1993\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.1.aar\85608c603c443c2d76ee676c6ba54c3b\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:20:1-60:12
+INJECTED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:20:1-60:12
+	package
+		ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:21:5-43
+	android:versionName
+		ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:23:5-30
+		INJECTED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:20:11-69
+	android:versionCode
+		ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:22:5-28
+		INJECTED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:31:5-89
+MERGED from [com.mbientlab:metawear:3.0.32] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\metawear-3.0.32.aar\0b0b75a3ac054dbf20218b3766330f54\AndroidManifest.xml:34:5-36:35
+MERGED from [com.mbientlab:metawear:3.0.32] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\metawear-3.0.32.aar\0b0b75a3ac054dbf20218b3766330f54\AndroidManifest.xml:34:5-36:35
+	android:required
+		ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:31:64-87
+	android:name
+		ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:31:19-63
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:33:5-67
+MERGED from [com.mbientlab:metawear:3.0.32] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\metawear-3.0.32.aar\0b0b75a3ac054dbf20218b3766330f54\AndroidManifest.xml:38:5-68
+MERGED from [com.mbientlab:metawear:3.0.32] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\metawear-3.0.32.aar\0b0b75a3ac054dbf20218b3766330f54\AndroidManifest.xml:38:5-68
+	android:name
+		ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:33:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:34:5-73
+	android:name
+		ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:34:22-71
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:35:5-68
+	android:name
+		ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:35:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:36:5-65
+	android:name
+		ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:36:22-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:37:5-80
+	android:name
+		ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:37:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:38:5-79
+	android:name
+		ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:38:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:39:5-66
+MERGED from [com.mbientlab:metawear:3.0.32] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\metawear-3.0.32.aar\0b0b75a3ac054dbf20218b3766330f54\AndroidManifest.xml:39:5-67
+MERGED from [com.mbientlab:metawear:3.0.32] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\metawear-3.0.32.aar\0b0b75a3ac054dbf20218b3766330f54\AndroidManifest.xml:39:5-67
+	android:name
+		ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:39:22-64
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:40:5-71
+	android:name
+		ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:40:22-68
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:41:5-80
+	android:name
+		ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:41:22-78
+application
+ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:45:5-58:19
+MERGED from [com.android.support:support-v13:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-v13-25.0.1.aar\7fbb4fff8c1a0cfa9ab7b8cca5a1ca46\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v13:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-v13-25.0.1.aar\7fbb4fff8c1a0cfa9ab7b8cca5a1ca46\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.1.aar\1d44a2983c23b58aab8bf3c8637c266d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.1.aar\1d44a2983c23b58aab8bf3c8637c266d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.1.aar\500dbda3c57d72958a55c1784ea80dd0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.1.aar\500dbda3c57d72958a55c1784ea80dd0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.0.1.aar\26e3f7217ddb1dd74d45e3ad00770886\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.0.1.aar\26e3f7217ddb1dd74d45e3ad00770886\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7937b12dafbf0af48584fc924b9858b6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7937b12dafbf0af48584fc924b9858b6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.1.aar\a8f189ba3e27a333f60a6a3ebd0c09fe\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.1.aar\a8f189ba3e27a333f60a6a3ebd0c09fe\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.1.aar\38cedb87874f60ddb57daa46318551e5\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.1.aar\38cedb87874f60ddb57daa46318551e5\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.1.aar\be13150634cbd3cea2d0a261fd6051fa\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.1.aar\be13150634cbd3cea2d0a261fd6051fa\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.1.aar\fccf6d0f63c05a255fb1c1aae7cd3092\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.1.aar\fccf6d0f63c05a255fb1c1aae7cd3092\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.1.aar\124149202a2d23e36770b31d3aa60d96\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.1.aar\124149202a2d23e36770b31d3aa60d96\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.1.aar\78e9433500b534694e13004292db1993\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.1.aar\78e9433500b534694e13004292db1993\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.1.aar\85608c603c443c2d76ee676c6ba54c3b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.1.aar\85608c603c443c2d76ee676c6ba54c3b\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:45:18-50
+	android:icon
+		ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:46:9-45
+	android:theme
+		ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:47:9-56
+activity#com.example.android.neptuneR.DeviceScanActivity
+ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:48:9-54:20
+	android:label
+		ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:49:13-45
+	android:name
+		ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:48:19-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:50:13-53:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:51:17-68
+	android:name
+		ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:51:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:52:17-76
+	android:name
+		ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:52:27-74
+activity#com.example.android.neptuneR.DeviceControlActivity
+ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:55:9-58
+	android:name
+		ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:55:19-56
+service#com.example.android.neptuneR.BluetoothLeService
+ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:56:9-77
+	android:enabled
+		ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:56:53-75
+	android:name
+		ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:56:18-52
+service#com.mbientlab.metawear.android.BtleService
+ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:57:9-78
+	android:name
+		ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml:57:18-75
+uses-sdk
+INJECTED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-v13-25.0.1.aar\7fbb4fff8c1a0cfa9ab7b8cca5a1ca46\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-v13-25.0.1.aar\7fbb4fff8c1a0cfa9ab7b8cca5a1ca46\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.1.aar\1d44a2983c23b58aab8bf3c8637c266d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.1.aar\1d44a2983c23b58aab8bf3c8637c266d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.1.aar\500dbda3c57d72958a55c1784ea80dd0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.1.aar\500dbda3c57d72958a55c1784ea80dd0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.0.1.aar\26e3f7217ddb1dd74d45e3ad00770886\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.0.1.aar\26e3f7217ddb1dd74d45e3ad00770886\AndroidManifest.xml:20:5-43
+MERGED from [com.mbientlab:metawear:3.0.32] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\metawear-3.0.32.aar\0b0b75a3ac054dbf20218b3766330f54\AndroidManifest.xml:30:5-32:41
+MERGED from [com.mbientlab:metawear:3.0.32] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\metawear-3.0.32.aar\0b0b75a3ac054dbf20218b3766330f54\AndroidManifest.xml:30:5-32:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7937b12dafbf0af48584fc924b9858b6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7937b12dafbf0af48584fc924b9858b6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.1.aar\a8f189ba3e27a333f60a6a3ebd0c09fe\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.1.aar\a8f189ba3e27a333f60a6a3ebd0c09fe\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.1.aar\38cedb87874f60ddb57daa46318551e5\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.1.aar\38cedb87874f60ddb57daa46318551e5\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.1.aar\be13150634cbd3cea2d0a261fd6051fa\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.1.aar\be13150634cbd3cea2d0a261fd6051fa\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.1.aar\fccf6d0f63c05a255fb1c1aae7cd3092\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.1.aar\fccf6d0f63c05a255fb1c1aae7cd3092\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.1.aar\124149202a2d23e36770b31d3aa60d96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.1.aar\124149202a2d23e36770b31d3aa60d96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.1.aar\78e9433500b534694e13004292db1993\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.1.aar\78e9433500b534694e13004292db1993\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.1.aar\85608c603c443c2d76ee676c6ba54c3b\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.1.aar\85608c603c443c2d76ee676c6ba54c3b\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.0.1] C:\Users\Yeop_DCLab\.gradle\caches\transforms-1\files-1.1\support-v13-25.0.1.aar\7fbb4fff8c1a0cfa9ab7b8cca5a1ca46\AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Yeop_DCLab\Documents\GitHub\NE_BELT_forResearch\NE_BELT_forR\Application\src\main\AndroidManifest.xml
