@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Yeop_DCLab\\Documents\\GitHub\\NE_BELT_forResearch\\NE_BELT_forR\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hu\\values-hu.xml",
+            "outputFile": "C:\\Users\\yeop-lee\\Documents\\GitHub\\NE_BELT_forR\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hu\\values-hu.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Yeop_DCLab\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\1d44a2983c23b58aab8bf3c8637c266d\\res\\values-hu\\values-hu.xml",
+                    "source": "C:\\Users\\yeop-lee\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\795abc1e4d2457aeb2231eebd14b7040\\res\\values-hu\\values-hu.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

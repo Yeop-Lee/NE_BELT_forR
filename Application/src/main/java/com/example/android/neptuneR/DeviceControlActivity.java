@@ -560,7 +560,7 @@ public class DeviceControlActivity extends Activity {
         mLie = (RadioButton) findViewById(R.id.Lie);
         mLie.setOnClickListener(flagOnclicklistener);
 
-        getActionBar().setTitle("NEptuNE_RU v1");
+        getActionBar().setTitle("NETch for R v1");
         getActionBar().setDisplayHomeAsUpEnabled(true);
         Intent gattServiceIntent = new Intent(this, BluetoothLeService.class);
         getApplicationContext().bindService(new Intent(this, BtleService.class), meta_ServiceConnection, BIND_AUTO_CREATE);

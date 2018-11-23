@@ -79,7 +79,7 @@ public class DeviceScanActivity extends ListActivity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        getActionBar().setTitle("neptuNE");
+        getActionBar().setTitle("NETch R");
         mHandler = new Handler();
 
         ActivityCompat.requestPermissions(DeviceScanActivity.this, ACCESS_PERMISSION, 1);

@@ -1,7 +1,7 @@
 #Internal package file, do not edit.
-#Mon Jul 16 09:35:31 KST 2018
+#Tue Nov 20 11:57:33 KST 2018
 0.baseType=DIRECTORY
-0.base=C\:\\Users\\Yeop_DCLab\\Documents\\GitHub\\NE_BELT_forResearch\\NE_BELT_forR\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.base=C\:\\Users\\yeop-lee\\Documents\\GitHub\\NE_BELT_forR\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 0.path=classes.dex
 0.set=DEX
 count=1
